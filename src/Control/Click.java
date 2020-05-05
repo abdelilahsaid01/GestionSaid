@@ -9,6 +9,7 @@ import Presentation.SaidWindow;
 public class Click implements ActionListener {
 	
 SaidWindow s;
+	
 	public void actionPerformed(ActionEvent e) {
 		//System.out.println("Hello Said");
 		if (s.login.getText().equals("said") & s.pw.getText().equals("abdo")) 

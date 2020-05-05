@@ -37,6 +37,6 @@ public class HistogramEx {
         JFreeChart histogram = ChartFactory.createHistogram("Normal distribution","y values", "x values", dataset);
 
         ChartUtils.saveChartAsPNG(new File("histogram.png"), histogram, 450, 400);
-    }
+  }
 }
 

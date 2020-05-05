@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livre>
+	<titre>Les misérables</titre>
+	<auteur>
+		<nom>Hugo</nom>
+		<prenom>Victor</prenom>
+	</auteur>5&lt;50
+	<chapitre>
+			<titre>Chapitre</titre>
+			<paragraphe>je suis bien</paragraphe>
+	
+	</chapitre>
+</livre>

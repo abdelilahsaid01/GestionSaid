@@ -3,8 +3,6 @@ import java.util.Vector;
 import Entities.*;
 import Traitement.*;
 import Exception.*;
-import Presentation.AjouterEtudiant;
-import Presentation.SaidWindow;
 
 public class Main {
 	public static void main(String[] args) {
@@ -41,10 +39,6 @@ ExceptionEssai ee = new ExceptionEssai();
 		finally{
 		 System.out.println ("Message final");
 		}*/
-	
-	//SaidWindow  au= new SaidWindow();
-	//AjouterEtudiant jj = new AjouterEtudiant();
-	
 	}
 		
 	}
